@@ -1,0 +1,8 @@
+Package: com.ganbi.nxdump
+Name: NXDump
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Description: Diagnostic: dumps Nyxian home screen (dock) structure to the clipboard and nxdump.txt
+Maintainer: Ganbi
+Author: Ganbi
+Section: Tweaks
